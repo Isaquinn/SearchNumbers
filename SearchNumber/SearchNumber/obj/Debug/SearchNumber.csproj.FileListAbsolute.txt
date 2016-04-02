@@ -1,0 +1,9 @@
+c:\users\isaque\documents\visual studio 2015\Projects\SearchNumber\SearchNumber\bin\Debug\SearchNumber.exe.config
+c:\users\isaque\documents\visual studio 2015\Projects\SearchNumber\SearchNumber\bin\Debug\SearchNumber.exe
+c:\users\isaque\documents\visual studio 2015\Projects\SearchNumber\SearchNumber\bin\Debug\SearchNumber.pdb
+c:\users\isaque\documents\visual studio 2015\Projects\SearchNumber\SearchNumber\obj\Debug\SearchNumber.csprojResolveAssemblyReference.cache
+c:\users\isaque\documents\visual studio 2015\Projects\SearchNumber\SearchNumber\obj\Debug\SearchNumber.Form1.resources
+c:\users\isaque\documents\visual studio 2015\Projects\SearchNumber\SearchNumber\obj\Debug\SearchNumber.Properties.Resources.resources
+c:\users\isaque\documents\visual studio 2015\Projects\SearchNumber\SearchNumber\obj\Debug\SearchNumber.csproj.GenerateResource.Cache
+c:\users\isaque\documents\visual studio 2015\Projects\SearchNumber\SearchNumber\obj\Debug\SearchNumber.exe
+c:\users\isaque\documents\visual studio 2015\Projects\SearchNumber\SearchNumber\obj\Debug\SearchNumber.pdb
